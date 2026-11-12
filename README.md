@@ -1,4 +1,4 @@
-# Oilfield A–Z Reviewer 🛢️
+# Petroleum Engineering Disciplines A–Z Reviewer (SLB Glossary: Simplified and Rewritten by Me) 🛢️
 
 Your petroleum engineering reviewer, except you'll actually want to open it. (Btw, I use this for reviewing concepts haha.... could be useful for petrobowl or similar competitions)
 
