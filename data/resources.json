@@ -1,0 +1,25 @@
+[
+{"group":"Dictionaries and wikis","items":[
+ {"name":"SLB Energy Glossary","url":"https://glossary.slb.com/","note":"The official glossary. Every term in this reviewer links to its entry here for the exact wording."},
+ {"name":"PetroWiki (SPE)","url":"https://petrowiki.spe.org/","note":"Free, peer-reviewed articles across all petroleum engineering topics."},
+ {"name":"AAPG Wiki","url":"https://wiki.aapg.org/","note":"Petroleum geology articles and methods from the AAPG."},
+ {"name":"SEG Wiki","url":"https://wiki.seg.org/wiki/Main_Page","note":"Geophysics dictionary and open textbooks from the SEG."}]},
+{"group":"Papers, standards and classification","items":[
+ {"name":"OnePetro","url":"https://onepetro.org/","note":"Search SPE and partner papers; many abstracts and some papers are free."},
+ {"name":"PRMS 2018 (SPE)","url":"https://www.spe.org/en/industry/petroleum-resources-management-system-2018/","note":"The reserves and resources classification framework."},
+ {"name":"API Standards","url":"https://www.api.org/products-and-services/standards","note":"Index of API specifications and recommended practices."}]},
+{"group":"Courses and study","items":[
+ {"name":"PNG 301, Penn State","url":"https://www.e-education.psu.edu/png301/","note":"Open course: introduction to petroleum and natural gas engineering."},
+ {"name":"Standing–Katz Z-factor chart","url":"https://kendrewflor.github.io/standing-katz-chart/","note":"Interactive Z-factor chart with gas properties and worked steps."},
+ {"name":"SPWLA","url":"https://www.spwla.org/","note":"Petrophysics and well-log analysis society: student resources and events."}]},
+{"group":"Well control and drilling","items":[
+ {"name":"IWCF","url":"https://www.iwcf.org/","note":"Well control certification body; check its syllabus before the exam."},
+ {"name":"IADC","url":"https://www.iadc.org/","note":"Drilling contractors' association: safety, training and the IADC lexicon."}]},
+{"group":"Data and statistics","items":[
+ {"name":"Statistical Review of World Energy","url":"https://www.energyinst.org/statistical-review","note":"Annual global oil, gas and energy data (Energy Institute)."},
+ {"name":"U.S. EIA","url":"https://www.eia.gov/","note":"Prices, production and forecasts."},
+ {"name":"USGS Energy Resources Program","url":"https://www.usgs.gov/programs/energy-resources-program","note":"Resource assessments and geologic data."},
+ {"name":"Department of Energy, Philippines","url":"https://www.doe.gov.ph/","note":"Philippine energy contracting rounds, service contracts and statistics."}]},
+{"group":"Professional societies","items":[
+ {"name":"Society of Petroleum Engineers","url":"https://www.spe.org/","note":"Student chapters, scholarships, papers and events."}]}
+]

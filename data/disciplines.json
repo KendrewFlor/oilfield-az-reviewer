@@ -1,0 +1,105 @@
+{
+ "source": "glossary.slb.com sidebar, November 2026",
+ "disciplines": [
+  {
+   "code": "DF",
+   "name": "Drilling Fluids",
+   "officialCount": 813
+  },
+  {
+   "code": "GP",
+   "name": "Geophysics",
+   "officialCount": 632
+  },
+  {
+   "code": "GL",
+   "name": "Geology",
+   "officialCount": 549
+  },
+  {
+   "code": "FE",
+   "name": "Formation Evaluation",
+   "officialCount": 487
+  },
+  {
+   "code": "DR",
+   "name": "Drilling",
+   "officialCount": 473
+  },
+  {
+   "code": "WC",
+   "name": "Well Completions",
+   "officialCount": 453
+  },
+  {
+   "code": "WI",
+   "name": "Well Workover and Intervention",
+   "officialCount": 335
+  },
+  {
+   "code": "EOR",
+   "name": "Enhanced Oil Recovery",
+   "officialCount": 236
+  },
+  {
+   "code": "PT",
+   "name": "Production Testing",
+   "officialCount": 198
+  },
+  {
+   "code": "WT",
+   "name": "Well Testing",
+   "officialCount": 189
+  },
+  {
+   "code": "RC",
+   "name": "Reservoir Characterization",
+   "officialCount": 183
+  },
+  {
+   "code": "PL",
+   "name": "Production Logging",
+   "officialCount": 131
+  },
+  {
+   "code": "PF",
+   "name": "Production Facilities",
+   "officialCount": 114
+  },
+  {
+   "code": "PR",
+   "name": "Production",
+   "officialCount": 109
+  },
+  {
+   "code": "SG",
+   "name": "Shale Gas",
+   "officialCount": 85
+  },
+  {
+   "code": "DG",
+   "name": "Digital",
+   "officialCount": 81
+  },
+  {
+   "code": "PE",
+   "name": "Perforating",
+   "officialCount": 75
+  },
+  {
+   "code": "BIZ",
+   "name": "Oil and Gas Business",
+   "officialCount": 72
+  },
+  {
+   "code": "HO",
+   "name": "Heavy Oil",
+   "officialCount": 64
+  },
+  {
+   "code": "GEN",
+   "name": "General Terms",
+   "officialCount": 10
+  }
+ ]
+}
